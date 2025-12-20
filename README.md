@@ -87,3 +87,6 @@ Mission planning, convoy coordination, monitoring, and decision support.
 ---
 
 > *“Building AI systems that work when failure is not an option.”*
+![Snake animation](https://github.com/Udbhaw08/Udbhaw08/blob/main/dist/github-contribution-grid-snake.svg)
+
+
