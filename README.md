@@ -90,6 +90,4 @@ Mission planning, convoy coordination, monitoring, and decision support.
 
 
 
-![Snake animation](https://github.com/Udbhaw08/Udbhaw08/blob/main/dist/github-contribution-grid-snake.svg)
-
 
