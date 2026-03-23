@@ -81,7 +81,7 @@ Mission planning, convoy coordination, monitoring, and decision support.
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/udbhawanand/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/udbhawanand/](https://www.linkedin.com/in/udbhawanand/)
 - 📧 Email: udbhawinsta@gmail.com
 
 ---
