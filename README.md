@@ -62,23 +62,6 @@ Mission planning, convoy coordination, monitoring, and decision support.
 **Software:** Python, C++, JavaScript, React, Tailwind CSS  
 **Tools:** Git, Linux, Docker, Simulation Pipelines  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Udbhaw08&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Udbhaw08&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhaw08&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/udbhawanand/](https://www.linkedin.com/in/udbhawanand/)
